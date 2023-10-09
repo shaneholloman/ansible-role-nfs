@@ -1,6 +1,6 @@
 # Ansible Role: NFS
 
-[![CI](https://github.com/shaneholloman-org/ansible-role-nfs/actions/workflows/ci.yml/badge.svg)](https://github.com/shaneholloman-org/ansible-role-nfs/actions/workflows/ci.yml)
+[![CI](https://github.com/shaneholloman/ansible-role-nfs/actions/workflows/ci.yml/badge.svg)](https://github.com/shaneholloman/ansible-role-nfs/actions/workflows/ci.yml)
 
 Installs NFS utilities on RedHat/CentOS or Debian/Ubuntu.
 
@@ -38,4 +38,3 @@ MIT / BSD
 ## Author Information
 
 This role was created in 2023
-
